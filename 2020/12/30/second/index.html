@@ -301,6 +301,22 @@
   
 
   
+  <div id="gitment-ctn"></div> 
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: "http://example.com/2020/12/30/second/",
+  owner: 'wz139',
+  repo: 'wz139.github.io',
+  oauth: {
+    client_id: '4f20b99bb8ea105afc92',
+    client_secret: '231e21e004b99303b67d9224bb093083e431214d',
+  },
+})
+gitment.render('gitment-ctn')
+</script>
+  
 
 
           </div>
