@@ -5,6 +5,12 @@
     <url>/2020/12/30/first/</url>
     <content><![CDATA[<p>测试tag和category</p>
 ]]></content>
+      <categories>
+        <category>database</category>
+      </categories>
+      <tags>
+        <tag>数据库</tag>
+      </tags>
   </entry>
   <entry>
     <title>picture</title>
