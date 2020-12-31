@@ -4,8 +4,7 @@
     <title>first</title>
     <url>/2020/12/30/first/</url>
     <content><![CDATA[<p>测试tag和category<br>1234</p>
-<p>~~~<br>public String hello(){<br> return “hello world”;<br>}</p>
-]]></content>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public String hello()&#123;</span><br><span class="line"> return &quot;hello world&quot;;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>database</category>
       </categories>
